@@ -7,28 +7,20 @@ platform — making complex property workflows easier to understand and operate.
 
 ## Our products
 
-### ListingOne
-**Market the property.**
+**ListingOne** — **Market the property.**  
+Prepare, present, and market a property.
 
-Tools for preparing, presenting, and marketing a property.
+**CommunityOne** — **Run the community.**  
+Operate homeowner and property owner associations, including records,
+finances, infrastructure, and community responsibilities.
 
-### CommunityOne
-**Run the community.**
+**RentalOne** — **Operate the rental relationship.**  
+Manage the ongoing relationship between rental properties, owners,
+managers, and residents.
 
-Software for homeowner and property owner associations to manage the
-community, its records, finances, infrastructure, and responsibilities.
-
-### RentalOne
-**Operate the rental relationship.**
-
-Focused software for the ongoing relationship between rental properties,
-owners, managers, and residents.
-
-### PropertyOne
-**Own and understand the property.**
-
-A long-term home for understanding the property, its information,
-responsibilities, records, and history.
+**PropertyOne** — **Own and understand the property.**  
+Understand the property's information, responsibilities, records,
+and history over time.
 
 ---
 
