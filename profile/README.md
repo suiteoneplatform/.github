@@ -54,6 +54,6 @@ another SuiteOne product.
 
 ---
 
-**SuiteOne LLC · United States**
+**SuiteOne LLC**
 
 [suiteoneplatform.com](https://suiteoneplatform.com)
